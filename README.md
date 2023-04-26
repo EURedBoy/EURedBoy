@@ -11,7 +11,7 @@
 <p align="center">
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
     <img alt="C#" src="https://camo.githubusercontent.com/bbae65b6de4a3ba26fbeaf00e347900385400dcd092e8b4e0f795853d24a24e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532332d2532333233393132302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465"/>
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-blueviolet?logo=appveyor?&style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-blueviolet?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
 <p align="center">
     <img alt="Intellij" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg&style=for-the-badge&logo=intellij-idea&logoColor=white"/>
