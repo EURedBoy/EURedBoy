@@ -14,8 +14,8 @@
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge"/>
 </p>
 <p align="center">
-    
-    <img alt"VisualStudio" src"https://img.shields.io/badge/visualstudio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+    <img alt="Intellij" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+    <img alt="VisualStudio" src"https://img.shields.io/badge/visualstudio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white"/>
 </p>
 
 <!-- # EURedBoy
