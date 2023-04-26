@@ -1,7 +1,7 @@
+<img style="float: right; border-radius:50%" src="https://avatars.githubusercontent.com/EURedBoy" width="150">
+
 [![EURedBoy's Profile](https://github-readme-stats.vercel.app/api?username=EURedBoy&theme=tokyonight)](https://github.com/EURedBoy/EURedBoy/) 
 [![EURedBoy's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EURedBoy&theme=tokyonight)](https://github.com/EURedBoy/EURedBoy/)
-
-<img src="https://avatars.githubusercontent.com/EURedBoy" width="50">
 
 <a href="https://github.com/EURedBoy/IMqtt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EURedBoy&repo=IMqtt&theme=tokyonight" />
