@@ -14,7 +14,7 @@
   <img alt=".NET" src="https://img.shields.io/static/v1?label=.NET&color=#512BD4?style=for-the-badge&logo=appveyor"/>
 </p>
 <p align="center">
-    <img alt="Intellij" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+    <img alt="Intellij" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg&style=for-the-badge&logo=intellij-idea&logoColor=white"/>
     <img alt"VisualStudioCode" src"https://img.shields.io/badge/visualstudiocode-2FA4F2.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
