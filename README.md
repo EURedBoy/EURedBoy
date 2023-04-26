@@ -1,10 +1,10 @@
-[![ThreeWhi's Profile](https://github-readme-stats.vercel.app/api?username=ThreeWhi&theme=tokyonight)](https://github.com/ThreeWhi/ThreeWhi/) 
-[![ThreeWhi's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ThreeWhi&theme=tokyonight)](https://github.com/ThreeWhi/ThreeWhi/)
+[![EURedBoy's Profile](https://github-readme-stats.vercel.app/api?username=EURedBoy&theme=tokyonight)](https://github.com/EURedBoy/EURedBoy/) 
+[![EURedBoy's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EURedBoy&theme=tokyonight)](https://github.com/EURedBoy/EURedBoy/)
 
-<a href="https://github.com/ThreeWhi/AutoFeedLite">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThreeWhi&repo=AutoFeedLite&theme=tokyonight" />
+<a href="https://github.com/EURedBoy/IMqtt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EURedBoy&repo=IMqtt&theme=tokyonight" />
 </a>
-<a href="https://github.com/ThreeWhi/TangerineMC">
+<a href="https://github.com/EURedBoy/TangerineMC">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThreeWhi&repo=TangerineMC&theme=tokyonight" />
 </a>
 <br></br>
