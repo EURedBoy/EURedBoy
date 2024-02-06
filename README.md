@@ -4,8 +4,8 @@
 <a href="https://github.com/EURedBoy/IMqtt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EURedBoy&repo=IMqtt&theme=tokyonight" />
 </a>
-<a href="https://github.com/EURedBoy/SoundVibe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EURedBoy&repo=SoundVibe&theme=tokyonight" />
+<a href="https://github.com/EURedBoy/WeatherApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EURedBoy&repo=WeatherApp&theme=tokyonight" />
 </a>
 <br></br>
 <p align="center">
